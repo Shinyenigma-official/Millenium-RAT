@@ -1,5 +1,5 @@
 # Millenium RAT 2.8☠️
-Telegram-controlled Windows RAT, no dedicated server needed for usage. ✨The price in 2024 is 30$✨. Contact me by Telegram to buy: <em>**@shinyenigma**</em> <br>All the feaatures are listed below
+Telegram-controlled Windows RAT, no dedicated server needed for usage. ✨The price in 2024 is 30$✨. Contact me by Telegram to buy: <em>**@shinyenigma**</em> <br>Please leave a STAR⭐️ to this repository
 ## Features
 <br />⭐️ Common:
 <br />🔹Easy-to-use compact builder
