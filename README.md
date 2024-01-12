@@ -1,5 +1,6 @@
 # Millenium RAT 2.8☠️
 Telegram-controlled Windows RAT, no dedicated server needed for usage. ✨The price in 2024 is 30$✨. Contact me by Telegram to buy: <em>**@shinyenigma**</em> <br>Please leave a STAR⭐️ to this repository if you like it
+<br><em>Also check DotStealer: https://github.com/YellowKnife802/DotStealer </em>
 ## Features
 <br />⭐️ Common:
 <br />🔹Easy-to-use compact builder
